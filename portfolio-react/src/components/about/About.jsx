@@ -38,8 +38,32 @@ export const About = () => {
             </article>
           </div>
 
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias omnis eveniet tempore fugit saepe est molestias excepturi, ipsa, suscipit soluta, cumque ipsam unde iure qui. Ab officiis perferendis suscipit fugit.
-          </p>
+          <p>I’ve often heard if you want to really know somebody, ask the person
+                        closest to them. So, here is an
+                        “About Me” section explained by my wife.
+
+                        My name is Brian Monda. I live in Central Missouri with my wife and two boys. On any random day,
+                        you
+                        will find me outside either chasing my 3 year old (who is likely half-way dressed) or playing
+                        basketball
+                        with my oldest. I am an outgoing introvert. I love to be around my family and friends, but to
+                        recharge
+                        my batteries, I prefer to be at home, in my chair, listening to my audio book. For all my
+                        personality
+                        test lovers: I am an Enneagram 9 (if you don’t know what this is, ask my wife) and an INTP on
+                        Myers
+                        Briggs.
+
+                        Professionally, I have worked in different settings. From account management for John Deere
+                        equipment to
+                        home loans, but my passion has always been what you will find here: Figuring out the inner
+                        dialogue to
+                        make what you see on this screen or simply put, programming.
+
+                        So in summary, I am a dad, husband, an introverted techy that is just chasing his dream to have
+                        a career
+                        that I am passionate about. My portfolio shows my past projects that I will be continuously
+                        building on.</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
