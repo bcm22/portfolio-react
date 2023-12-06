@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/family.jpg'
+import ME from '../../assets/ME.jpg'
 import { FiAward } from "react-icons/fi";
 import { LuUsers } from "react-icons/lu";
 import { FaFolder } from "react-icons/fa";
