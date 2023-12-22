@@ -1,6 +1,6 @@
 import React from 'react'
 
-const resumeURL = "https://docs.google.com/document/d/1psDIhzaBGNS69VlPCs4TJGmh474ad3q62XuUG_SPVJQ/edit?usp=drive_link"
+const resumeURL = "https://drive.google.com/file/d/1EWRuDJrWbtwG2oIYV41adLIoP-Ohif-R/view?usp=sharing"
 
 const CTA = () => {
   return (
