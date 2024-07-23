@@ -20,7 +20,6 @@ const data = [
     image: IMG2,
     title: 'Note Taker',
     github: 'https://bcm22.github.io/note_taker/',
-    demo: 'https://immense-castle-52309-493bf1a5217d.herokuapp.com/'
   },
   {
     id: 3,
@@ -41,7 +40,6 @@ const data = [
     image: IMG5,
     title: 'PWA Text Editor',
     github: 'https://github.com/bcm22/pwa-text-editor',
-    demo: 'https://bcm22-jate-5a6e859a0464.herokuapp.com/',
   }
 ]
 
