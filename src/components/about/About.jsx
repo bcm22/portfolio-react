@@ -58,7 +58,7 @@ export const About = () => {
                         equipment to
                         home loans, but my passion has always been what you will find here: Figuring out the inner
                         dialogue to
-                        make what you see on this screen or simply put, programming.
+                        make what you see on this screen or simply put, web development.
 
                         So in summary, I am a dad, husband, an introverted techy that is just chasing his dream to have
                         a career
